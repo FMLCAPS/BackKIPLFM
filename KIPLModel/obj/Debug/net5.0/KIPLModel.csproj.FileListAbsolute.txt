@@ -1,0 +1,15 @@
+C:\SandBox\API\KIPLModel\bin\Debug\net5.0\KIPLModel.deps.json
+C:\SandBox\API\KIPLModel\bin\Debug\net5.0\KIPLModel.dll
+C:\SandBox\API\KIPLModel\bin\Debug\net5.0\ref\KIPLModel.dll
+C:\SandBox\API\KIPLModel\bin\Debug\net5.0\KIPLModel.pdb
+C:\SandBox\API\KIPLModel\obj\Debug\net5.0\KIPLModel.csproj.AssemblyReference.cache
+C:\SandBox\API\KIPLModel\obj\Debug\net5.0\KIPLModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\SandBox\API\KIPLModel\obj\Debug\net5.0\KIPLModel.AssemblyInfoInputs.cache
+C:\SandBox\API\KIPLModel\obj\Debug\net5.0\KIPLModel.AssemblyInfo.cs
+C:\SandBox\API\KIPLModel\obj\Debug\net5.0\KIPLModel.csproj.CoreCompileInputs.cache
+C:\SandBox\API\KIPLModel\obj\Debug\net5.0\KIPLModel.dll
+C:\SandBox\API\KIPLModel\obj\Debug\net5.0\ref\KIPLModel.dll
+C:\SandBox\API\KIPLModel\obj\Debug\net5.0\KIPLModel.pdb
+C:\SandBox\API\KIPLModel\bin\Debug\net5.0\KIPLModel.runtimeconfig.json
+C:\SandBox\API\KIPLModel\bin\Debug\net5.0\KIPLModel.runtimeconfig.dev.json
+C:\SandBox\API\KIPLModel\obj\Debug\net5.0\KIPLModel.genruntimeconfig.cache
